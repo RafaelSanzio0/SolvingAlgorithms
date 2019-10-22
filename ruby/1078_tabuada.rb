@@ -11,5 +11,5 @@ n = gets.to_i
 n2 = 0
 
 (10).times do
-  puts "#{n2} x #{n} = #{(n2+=1)*n}"
+  puts "#{n2+1} x #{n} = #{(n2+=1)*n}"
 end
