@@ -9,3 +9,14 @@ C:\Users\rsillima\source\repos\URI\URI\obj\Debug\netcoreapp3.1\URI.AssemblyInfo.
 C:\Users\rsillima\source\repos\URI\URI\obj\Debug\netcoreapp3.1\URI.dll
 C:\Users\rsillima\source\repos\URI\URI\obj\Debug\netcoreapp3.1\URI.pdb
 C:\Users\rsillima\source\repos\URI\URI\obj\Debug\netcoreapp3.1\URI.csprojAssemblyReference.cache
+C:\Users\rsillima\Documents\projetos git\URI\C#\URI\bin\Debug\netcoreapp3.1\URI.exe
+C:\Users\rsillima\Documents\projetos git\URI\C#\URI\bin\Debug\netcoreapp3.1\URI.deps.json
+C:\Users\rsillima\Documents\projetos git\URI\C#\URI\bin\Debug\netcoreapp3.1\URI.runtimeconfig.json
+C:\Users\rsillima\Documents\projetos git\URI\C#\URI\bin\Debug\netcoreapp3.1\URI.runtimeconfig.dev.json
+C:\Users\rsillima\Documents\projetos git\URI\C#\URI\bin\Debug\netcoreapp3.1\URI.dll
+C:\Users\rsillima\Documents\projetos git\URI\C#\URI\bin\Debug\netcoreapp3.1\URI.pdb
+C:\Users\rsillima\Documents\projetos git\URI\C#\URI\obj\Debug\netcoreapp3.1\URI.AssemblyInfoInputs.cache
+C:\Users\rsillima\Documents\projetos git\URI\C#\URI\obj\Debug\netcoreapp3.1\URI.AssemblyInfo.cs
+C:\Users\rsillima\Documents\projetos git\URI\C#\URI\obj\Debug\netcoreapp3.1\URI.dll
+C:\Users\rsillima\Documents\projetos git\URI\C#\URI\obj\Debug\netcoreapp3.1\URI.pdb
+C:\Users\rsillima\Documents\projetos git\URI\C#\URI\obj\Debug\netcoreapp3.1\URI.csprojAssemblyReference.cache

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rsillima\\source\\repos\\URI\\URI\\URI.csproj",
+      "projectUniqueName": "C:\\Users\\rsillima\\Documents\\projetos git\\URI\\C#\\URI\\URI.csproj",
       "projectName": "URI",
-      "projectPath": "C:\\Users\\rsillima\\source\\repos\\URI\\URI\\URI.csproj",
+      "projectPath": "C:\\Users\\rsillima\\Documents\\projetos git\\URI\\C#\\URI\\URI.csproj",
       "packagesPath": "C:\\Users\\rsillima\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rsillima\\source\\repos\\URI\\URI\\obj\\",
+      "outputPath": "C:\\Users\\rsillima\\Documents\\projetos git\\URI\\C#\\URI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rsillima\\AppData\\Roaming\\NuGet\\NuGet.Config",
