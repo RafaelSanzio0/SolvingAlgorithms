@@ -20,3 +20,17 @@ C:\Users\rsillima\Documents\projetos git\URI\C#\URI\obj\Debug\netcoreapp3.1\URI.
 C:\Users\rsillima\Documents\projetos git\URI\C#\URI\obj\Debug\netcoreapp3.1\URI.dll
 C:\Users\rsillima\Documents\projetos git\URI\C#\URI\obj\Debug\netcoreapp3.1\URI.pdb
 C:\Users\rsillima\Documents\projetos git\URI\C#\URI\obj\Debug\netcoreapp3.1\URI.csprojAssemblyReference.cache
+D:\Documentos\CursosTI\URI\C#\URI\bin\Debug\netcoreapp3.1\URI.exe
+D:\Documentos\CursosTI\URI\C#\URI\bin\Debug\netcoreapp3.1\URI.deps.json
+D:\Documentos\CursosTI\URI\C#\URI\bin\Debug\netcoreapp3.1\URI.runtimeconfig.json
+D:\Documentos\CursosTI\URI\C#\URI\bin\Debug\netcoreapp3.1\URI.runtimeconfig.dev.json
+D:\Documentos\CursosTI\URI\C#\URI\bin\Debug\netcoreapp3.1\URI.dll
+D:\Documentos\CursosTI\URI\C#\URI\bin\Debug\netcoreapp3.1\URI.pdb
+D:\Documentos\CursosTI\URI\C#\URI\obj\Debug\netcoreapp3.1\URI.csproj.AssemblyReference.cache
+D:\Documentos\CursosTI\URI\C#\URI\obj\Debug\netcoreapp3.1\URI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\CursosTI\URI\C#\URI\obj\Debug\netcoreapp3.1\URI.AssemblyInfoInputs.cache
+D:\Documentos\CursosTI\URI\C#\URI\obj\Debug\netcoreapp3.1\URI.AssemblyInfo.cs
+D:\Documentos\CursosTI\URI\C#\URI\obj\Debug\netcoreapp3.1\URI.csproj.CoreCompileInputs.cache
+D:\Documentos\CursosTI\URI\C#\URI\obj\Debug\netcoreapp3.1\URI.dll
+D:\Documentos\CursosTI\URI\C#\URI\obj\Debug\netcoreapp3.1\URI.pdb
+D:\Documentos\CursosTI\URI\C#\URI\obj\Debug\netcoreapp3.1\URI.genruntimeconfig.cache

@@ -8,7 +8,7 @@ using System.Text;
  * (deve parar quando o valor no arquivo de entrada for igual a zero).
  * Para cada valor lido imprima a sequência de 1 até X,
  * com um espaço entre cada número e seu sucessor.
- */
+ 
 
 namespace URI
 {
@@ -34,3 +34,5 @@ namespace URI
         }
     }
 }
+
+*/
