@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77248b84-1512-4acc-b42c-c52a5d143f77" name="Default Changelist" comment="" />
+    <list default="true" id="77248b84-1512-4acc-b42c-c52a5d143f77" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java/SequenciaCrescente_1146.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java/SequenciaCrescente_1146.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,17 +17,30 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="1Z5dHaGHpRwouuCcHkrsc976NvA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="compactDirectories" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.SequenciaCrescente_1146">
+  <component name="RunManager" selected="Application.SequenciaLogica_1144">
     <configuration name="MultiplosDe13_1312" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MultiplosDe13_1312" />
       <module name="Java" />
@@ -48,9 +64,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SequenciaLogica_1144" />
         <item itemvalue="Application.SequenciaCrescente_1146" />
         <item itemvalue="Application.MultiplosDe13_1312" />
-        <item itemvalue="Application.SequenciaLogica_1144" />
       </list>
     </recent_temporary>
   </component>
@@ -66,6 +82,7 @@
       </list>
     </option>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -79,42 +96,16 @@
     </task>
     <servers />
   </component>
-  <component name="WindowStateProjectService">
-    <state width="1237" height="204" key="GridCell.Tab.0.bottom" timestamp="1584283792063">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584283792063" />
-    <state width="1237" height="204" key="GridCell.Tab.0.center" timestamp="1584283792063">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="204" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1584283792063" />
-    <state width="1237" height="204" key="GridCell.Tab.0.left" timestamp="1584283792063">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="204" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1584283792063" />
-    <state width="1237" height="204" key="GridCell.Tab.0.right" timestamp="1584283792063">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="204" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1584283792063" />
-    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1584283792063">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584283792063" />
-    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1584283792063">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1584283792063" />
-    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1584283792063">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1584283792063" />
-    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1584283792063">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1584283792063" />
-    <state x="337" y="165" key="com.intellij.ide.util.TipDialog" timestamp="1584214231694">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="337" y="165" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1584214231694" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
