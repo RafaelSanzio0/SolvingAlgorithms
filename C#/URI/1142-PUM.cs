@@ -10,7 +10,7 @@ O arquivo de entrada contém um número inteiro positivo N.
 
 Saída
 Imprima a saída conforme o exemplo fornecido.
- */
+
 
 namespace URI
 {
@@ -33,3 +33,5 @@ namespace URI
 
     }
 }
+
+*/
