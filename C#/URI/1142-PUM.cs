@@ -18,20 +18,19 @@ namespace URI
     {
         static void Main(string[] args)
         {
-            var caseTest = Convert.ToInt32(Console.ReadLine());
-            var value = 0;
-            var prox = 0;
+            var testCase = Convert.ToInt32(Console.ReadLine());
+            int a = 1;
+            int b = 2;
+            int c = 3;
 
-            for (int i = 0; i < caseTest; i++)
+            for (int i = 0; i < testCase; i++)
             {
-               
-                
-
-
+                Console.WriteLine("{0} {1} {2} PUM", a, b, c);
+                a += 4;
+                b += 4;
+                c += 4;
             }
         }
-
     }
 }
-
 */

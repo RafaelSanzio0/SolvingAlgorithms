@@ -1,0 +1,15 @@
+C:\Users\u001035\source\repos\URI\C#\URI\bin\Debug\net6.0\URI.exe
+C:\Users\u001035\source\repos\URI\C#\URI\bin\Debug\net6.0\URI.deps.json
+C:\Users\u001035\source\repos\URI\C#\URI\bin\Debug\net6.0\URI.runtimeconfig.json
+C:\Users\u001035\source\repos\URI\C#\URI\bin\Debug\net6.0\URI.dll
+C:\Users\u001035\source\repos\URI\C#\URI\bin\Debug\net6.0\URI.pdb
+C:\Users\u001035\source\repos\URI\C#\URI\obj\Debug\net6.0\URI.csproj.AssemblyReference.cache
+C:\Users\u001035\source\repos\URI\C#\URI\obj\Debug\net6.0\URI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\u001035\source\repos\URI\C#\URI\obj\Debug\net6.0\URI.AssemblyInfoInputs.cache
+C:\Users\u001035\source\repos\URI\C#\URI\obj\Debug\net6.0\URI.AssemblyInfo.cs
+C:\Users\u001035\source\repos\URI\C#\URI\obj\Debug\net6.0\URI.csproj.CoreCompileInputs.cache
+C:\Users\u001035\source\repos\URI\C#\URI\obj\Debug\net6.0\URI.dll
+C:\Users\u001035\source\repos\URI\C#\URI\obj\Debug\net6.0\refint\URI.dll
+C:\Users\u001035\source\repos\URI\C#\URI\obj\Debug\net6.0\URI.pdb
+C:\Users\u001035\source\repos\URI\C#\URI\obj\Debug\net6.0\URI.genruntimeconfig.cache
+C:\Users\u001035\source\repos\URI\C#\URI\obj\Debug\net6.0\ref\URI.dll
