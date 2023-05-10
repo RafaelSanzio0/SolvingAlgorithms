@@ -5,7 +5,7 @@ using System.Text;
 /*
  * Leia 2 valores inteiros X e Y. A seguir,
  * calcule e mostre a soma dos números impares entre eles.
- 
+ */
 
 namespace URI
 {
@@ -44,5 +44,5 @@ namespace URI
         }
     }
 }
-*/
+
 

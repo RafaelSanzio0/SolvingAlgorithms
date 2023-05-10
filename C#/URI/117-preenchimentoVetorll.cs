@@ -8,6 +8,7 @@ A entrada contém um valor inteiro T (2 ≤ T ≤ 50).
 
 Saída
 Para cada posição do vetor, escreva "N[i] = x", onde i é a posição do vetor e x é o valor armazenado naquela posição.
+*/
 
 namespace URI
 {
@@ -26,4 +27,4 @@ namespace URI
         }
     }
 }
-*/
+

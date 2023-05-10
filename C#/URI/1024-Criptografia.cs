@@ -12,7 +12,7 @@ todo e qualquer caractere a partir da metade em diante (truncada) devem ser desl
 
 Por exemplo, se a entrada for “Texto #3”, o primeiro processamento sobre esta entrada deverá produzir “Wh{wr #3”. O resultado do segundo processamento inverte 
 os caracteres e produz “3# rw{hW”. Por último, com o deslocamento dos caracteres da metade em diante, o resultado final deve ser “3# rvzgV”.
-
+*/
 
 namespace URI
 {
@@ -68,4 +68,3 @@ namespace URI
         }
     }
 }
-*/

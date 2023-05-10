@@ -6,6 +6,7 @@ using System.Text;
  * desejado. Considerando a configuração dos leds dos números abaixo, faça um algoritmo que ajude João a descobrir a quantidade de leds necessário para montar o valor.
 
 Obs.: Para programadores de Javascript, recomenda-se o uso de "input.trim().split('\n')" para evitar erros conhecidos.
+*/
 
 namespace URI
 {
@@ -70,4 +71,3 @@ namespace URI
         }
     }
 }
-*/

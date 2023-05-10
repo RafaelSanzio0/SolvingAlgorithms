@@ -3,5 +3,6 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net6.0</TargetFramework>
+    <StartupObject>URI._1238_Combinador</StartupObject>
   </PropertyGroup>
 </Project>

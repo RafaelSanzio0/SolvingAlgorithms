@@ -11,6 +11,7 @@ A entrada contém 100 valores, podendo ser inteiros, reais, positivos ou negativ
 
 Saída
 Para cada valor do vetor menor ou igual a 10, escreva "A[i] = x", onde i é a posição do vetor e x é o valor armazenado na posição, com uma casa após o ponto decimal.
+*/
 
 namespace URI
 {
@@ -40,4 +41,3 @@ namespace URI
     }
 }
 
-*/

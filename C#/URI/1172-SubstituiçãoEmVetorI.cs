@@ -10,7 +10,7 @@ A entrada contém 10 valores inteiros, podendo ser positivos ou negativos.
 
 Saída
 Para cada posição do vetor, escreva "X[i] = x", onde i é a posição do vetor e x é o valor armazenado naquela posição.
-
+ */
 
 
 namespace URI
@@ -35,4 +35,3 @@ namespace URI
         }
     }
 }
- */

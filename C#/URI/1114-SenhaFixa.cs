@@ -7,7 +7,8 @@ using System.Text;
  * "Senha Invalida". Quando a senha for informada corretamente deve ser
  * impressa a mensagem "Acesso Permitido" e o algoritmo encerrado. 
  * Considere que a senha correta é o valor 2002. 
- 
+ */
+
 namespace URI
 {
     class _1114_SenhaFixa
@@ -40,4 +41,4 @@ namespace URI
         }
     }
 }
-*/
+

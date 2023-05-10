@@ -3,8 +3,8 @@
  * Leia 2 valores inteiros X e Y. A seguir, ( com a qtd de N casos)
  * calcule e mostre a soma dos números impares entre eles.
  * ##COMPILATION ERROR URI
- 
-    
+ */
+
 namespace URI
 {
     class SomaImpares2
@@ -50,5 +50,5 @@ namespace URI
         }
     }
 }
-*/
+
 

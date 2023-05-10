@@ -12,7 +12,7 @@ seguir. Cada caso de teste é composto por uma linha que contém duas cadeias de
 
 Saída
 Combine as duas cadeias de caracteres da entrada como mostrado no exemplo abaixo e exiba a cadeia resultante.
-
+*/
 
 namespace URI
 {
@@ -48,4 +48,3 @@ namespace URI
         }
     }
 }
-*/

@@ -13,7 +13,7 @@ Cada uma das N linhas seguintes contém um valor inteiro X (1 ≤ X ≤ 108), qu
 
 Saída
 Para cada caso de teste de entrada, imprima a mensagem “X eh perfeito” ou “X nao eh perfeito”, de acordo com a especificação fornecida.
-
+ */
 
 
 namespace URI
@@ -53,4 +53,3 @@ namespace URI
         }
     }
 }
- */

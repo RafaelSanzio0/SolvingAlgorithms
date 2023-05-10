@@ -10,7 +10,7 @@ A entrada será um valor inteiro positivo.
 
 Saída
 A saída será uma sequência de seis números ímpares.
-
+*/
 
 namespace URI
 {
@@ -35,4 +35,4 @@ namespace URI
         }
     }
 }
-*/
+

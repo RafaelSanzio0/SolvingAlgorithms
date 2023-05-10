@@ -9,7 +9,7 @@ using static System.Math;
  * Se não for possível calcular as raízes, mostre a mensagem correspondente
  * “Impossivel calcular”,
  * caso haja uma divisão por 0 ou raiz de numero negativo.
- 
+ */
 
 namespace URI
 {
@@ -44,4 +44,4 @@ namespace URI
     }
 }
 
-    */
+    

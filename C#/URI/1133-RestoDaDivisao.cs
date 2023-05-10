@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-/*
+
 namespace URI
 {
     internal class _1133_RestoDaDivisao
@@ -26,4 +26,3 @@ namespace URI
         }
     }
 }
-*/

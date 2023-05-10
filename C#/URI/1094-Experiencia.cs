@@ -14,9 +14,7 @@ A primeira linha de entrada contém um valor inteiro N que indica os vários cas
 
 Saída
 Apresente o total de cobaias utilizadas, o total de cada tipo de cobaia utilizada e o percentual de cada uma em relação ao total de cobaias utilizadas, sendo que o percentual deve ser apresentado com dois dígitos após o ponto.
-
-
-
+*/
 
 namespace URI
 {
@@ -76,4 +74,3 @@ namespace URI
     }
 }
 
-*/

@@ -13,7 +13,7 @@ Cada caso de teste a seguir é um valor inteiro X (-107 < X <107).
 
 Saída
 Para cada caso, imprima quantos números estão dentro (in) e quantos valores estão fora (out) do intervalo.
-
+ */
 
 namespace URI
 {
@@ -43,4 +43,4 @@ namespace URI
         }
     }
 }
- */
+

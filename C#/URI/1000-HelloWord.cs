@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-/*
+
 namespace URI
 {
     class _1000_HelloWord
@@ -13,5 +13,3 @@ namespace URI
         }
     }
 }
-
-*/
